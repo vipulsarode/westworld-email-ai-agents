@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/vipulsarode/Work/LLAMA3-AGENTS/venv/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

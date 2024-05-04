@@ -1,0 +1,13 @@
+prefix=/Users/vipulsarode/Work/LLAMA3-AGENTS/venv
+exec_prefix=/Users/vipulsarode/Work/LLAMA3-AGENTS/venv
+libdir=/Users/vipulsarode/Work/LLAMA3-AGENTS/venv/lib
+sharedlibdir=/Users/vipulsarode/Work/LLAMA3-AGENTS/venv/lib
+includedir=/Users/vipulsarode/Work/LLAMA3-AGENTS/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
